@@ -1,3 +1,5 @@
+## 실습은 https://www.typescriptlang.org/play?#code/DYUwLgBAbgjBC8EYCYDMBuAULBEDkAhgEYDGe6QA 에서 할 수 있음.
+
 ## Deprecated
 
 Replaced by https://www.typescriptlang.org/dt/search
