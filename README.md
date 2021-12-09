@@ -1,4 +1,5 @@
-## 실습은 https://www.typescriptlang.org/play?#code/DYUwLgBAbgjBC8EYCYDMBuAULBEDkAhgEYDGe6QA 에서 할 수 있음.
+## 실습 가능한 온라인 에디터
+https://www.typescriptlang.org/play?#code/DYUwLgBAbgjBC8EYCYDMBuAULBEDkAhgEYDGe6QA
 
 ## Deprecated
 
